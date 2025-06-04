@@ -17,12 +17,9 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "AI"
     url: /portfolio/
 
-  - title: "AI"
-    url: /posts/
-        
   - title: "Blog Posts"
     url: /year-archive/
     
