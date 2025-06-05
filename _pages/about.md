@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+------
 SUCCESS IS NOT FOR LAZY
 ======
 
 
-For more info
+Welcome to my Blog. This is where I share my research experiences and life.
 ------
 
