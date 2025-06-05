@@ -16,12 +16,14 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  - title: "AI"
-    url: /portfolio/
 
-  - title: "Blog Posts"
+  - title: "AI"
     url: /year-archive/
+   
+  - title: "Life"
+    url: /teaching/
+
+
     
   - title: "CV"
     url: /cv/
