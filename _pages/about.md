@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ------
+
 SUCCESS IS NOT FOR LAZY
 ======
 
