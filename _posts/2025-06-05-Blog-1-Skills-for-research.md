@@ -7,10 +7,13 @@ tags:
   - introduction
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
+5 ESSENTIAL SKILLS YOU NEED BEFORE STARTING AI RESEARCH
 ======
+in this blog post, i want to brief share with you the key skills you should have before diving into reseach
+- especially in the field of Artificial Intelligence (AI). AI is a fascinating but complex field. It moves fast, involves both theory and practice, and demands a wide range of skills. If you're just getting started,
+you need to have a solid foundation in the following: 
+
 
 You can have many headings
 ======
