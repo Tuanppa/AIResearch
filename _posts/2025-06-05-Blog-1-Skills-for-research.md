@@ -1,7 +1,7 @@
 ---
 title: 'Blog 1: Skills for research'
 date: 2025-06-05
-permalink: /posts/2025/06/Blog-1-Skills-for-research/
+permalink: /posts/Blog-1-Skills-for-research/
 tags:
   - AI
   - introduction
