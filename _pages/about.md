@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 ------
-Welcome to my Blog. This is where I share my research experiences and life.
-------
+
+Welcome to my Blog. This is where I share my research experiences and life. My favorite quotes:
 
 SUCCESS IS NOT FOR LAZY
 ======
